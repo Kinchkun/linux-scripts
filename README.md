@@ -2,5 +2,6 @@
 
 Personal Linux scripts and Notes
 
-test
+## Requirements
 
+Currently Only for *Archlinux*
